@@ -70,6 +70,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel2000/Gabriel2000/output/snake.svg" alt="Snake animation" />
 
 ###
